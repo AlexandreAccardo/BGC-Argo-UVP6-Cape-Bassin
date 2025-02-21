@@ -10,7 +10,6 @@ Repository containing all the scripts to reproduce analysis from Accardo et al.,
 - **Export features detection and Supplementary Figure SF1**: `STARS_method.R`
 - **Correlation computations and Supplementary Figures SF2 to SF6**: `Correlations.ipynb`
 
-## Additional Scripts
+## Additional Script
 
 - **Eddy Subduction Pump events detection** (as in [Llort et al., 2018](https://doi.org/10.1002/2017JC012861)): `Eddy_subduction_Pump_event_detection.ipynb`
-- **Backscattering signal decomposition** (as in [Briggs et al., 2020](https://www.science.org/doi/10.1126/science.aay1790)): `Briggs_2020.R`
